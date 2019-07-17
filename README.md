@@ -13,14 +13,14 @@
 ---
 ## Dataset - kaggle competitions download -c aptos2019-blindness-detection
 
-#Sample image
+# Sample image
 
 ![sample_image](_98_1188351.png)
 
 ---
 
 
-#Augmented Images
+# Augmented Images
 
 ![sample_image](104.png) 
 ![sample_image](_11_2949469.png) 
