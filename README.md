@@ -26,7 +26,7 @@
 ![sample_image](_11_2949469.png) 
 
 ---
-[Link to our project video.](https://www.youtube.com/watch?v=6YP9lnc_HiA&feature=youtu.be)
+[Link to our project video.](https://youtu.be/Q0kTO78_hic)
 
 
 * Convolution layer - This layer applies the convolution operation on an image with a defined stride and padding
